@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "patpat.json"
+  ],
+  "homeserver_url": "https://matrix-mz.duckdns.org"
+}
